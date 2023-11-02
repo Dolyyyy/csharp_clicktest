@@ -1,0 +1,10 @@
+C:\Users\a.burot\Desktop\C#\4\ClickTest\ClickTest\bin\Debug\ClickTest.exe.config
+C:\Users\a.burot\Desktop\C#\4\ClickTest\ClickTest\bin\Debug\ClickTest.exe
+C:\Users\a.burot\Desktop\C#\4\ClickTest\ClickTest\bin\Debug\ClickTest.pdb
+C:\Users\a.burot\Desktop\C#\4\ClickTest\ClickTest\obj\Debug\ClickTest.csproj.AssemblyReference.cache
+C:\Users\a.burot\Desktop\C#\4\ClickTest\ClickTest\obj\Debug\ClickTest.Form1.resources
+C:\Users\a.burot\Desktop\C#\4\ClickTest\ClickTest\obj\Debug\ClickTest.Properties.Resources.resources
+C:\Users\a.burot\Desktop\C#\4\ClickTest\ClickTest\obj\Debug\ClickTest.csproj.GenerateResource.cache
+C:\Users\a.burot\Desktop\C#\4\ClickTest\ClickTest\obj\Debug\ClickTest.csproj.CoreCompileInputs.cache
+C:\Users\a.burot\Desktop\C#\4\ClickTest\ClickTest\obj\Debug\ClickTest.exe
+C:\Users\a.burot\Desktop\C#\4\ClickTest\ClickTest\obj\Debug\ClickTest.pdb
